@@ -1,0 +1,14 @@
+[
+  {
+    "package": "EMMLi",
+    "oncran": true
+  },
+  {
+    "package": "paleomorph",
+    "oncran": true
+  },
+  {
+    "package": "palettetown",
+    "oncran": true
+  }
+]
