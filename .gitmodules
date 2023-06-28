@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "disaggregation"]
 	path = disaggregation
 	url = https://github.com/cran/disaggregation
-	shallow = true
-	registered = true
 [submodule "EMMLi"]
 	path = EMMLi
 	url = https://github.com/timcdlucas/emmli
-	shallow = true
-	registered = true
 [submodule "paleomorph"]
 	path = paleomorph
 	url = https://github.com/timcdlucas/paleomorph
-	shallow = true
-	registered = true
 [submodule "palettetown"]
 	path = palettetown
 	url = https://github.com/timcdlucas/palettetown
-	shallow = true
-	registered = true
