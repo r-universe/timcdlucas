@@ -7,7 +7,7 @@
 	url = https://github.com/timcdlucas/emmli
 [submodule "disaggregation"]
 	path = disaggregation
-	url = https://github.com/cran/disaggregation
+	url = https://github.com/timcdlucas/disaggregation
 [submodule "paleomorph"]
 	path = paleomorph
 	url = https://github.com/timcdlucas/paleomorph
