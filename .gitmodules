@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "EMMLi"]
-	path = EMMLi
-	url = https://github.com/timcdlucas/emmli
 [submodule "disaggregation"]
 	path = disaggregation
 	url = https://github.com/timcdlucas/disaggregation
